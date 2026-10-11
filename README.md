@@ -52,3 +52,9 @@ images/       # photos and diagrams
 Built by **Shivam Verma (cyb3r_n3rd)** —
 [portfolio](https://cyb3r-n3rd.github.io/portfolio/) ·
 [LinkedIn](https://www.linkedin.com/in/shivamvermacyber)
+
+
+## Links
+
+- Project entry: [LinkedIn projects](https://www.linkedin.com/in/shivamvermacyber/details/projects/)
+- Portfolio: [cyb3r-n3rd.github.io/portfolio](https://cyb3r-n3rd.github.io/portfolio/)
